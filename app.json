@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "AboutMe",
-    "slug": "AboutMe"
+    "slug": "AboutMe",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "778ae4a9-0bbc-48f1-8c49-852ee95c08de"
+      }
+    },
+    "android": {
+      "package": "com.ritchieridanko.AboutMe"
+    }
   }
 }
